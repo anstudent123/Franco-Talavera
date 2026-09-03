@@ -24,11 +24,15 @@
 
 |-----|---------|-------------|
 
-| 1996 | !\[1996](../imagenes/era-caos-creativo-1996.png) | Página con solo texto "Under Construction" |
+| 2017 | !\[2017](../imagenes/apple2017.png)  
 
-| 1997 | !\[1997](../imagenes/era-caos-creativo-1997.png) | Diseño con múltiples GIFs y columnas |
+| 2015 | !\[2015](../imagenes/apple2015.png) 
 
-| 1998 | !\[1998](../imagenes/era-caos-creativo-1998.png) | Simplificación con el iMac G3 |
+| 2014 | !\[2014](../imagenes/apple2014.png) 
+
+| 2013 | !\[2013](../imagenes/apple2013.png)
+
+| 2016 | !\[2016](../imagenes/appol en 2015.png)
 
 
 
